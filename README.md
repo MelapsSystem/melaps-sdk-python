@@ -12,6 +12,10 @@ stream GPU telemetry, and manage reservations on H100 clusters.
 - API reference: <https://docs.melaps.xyz/api>
 - X: <https://x.com/melaps_system>
 
+## Token
+
+**$MELAPS** — contract address: `0x49b5a9fcd24ca5083fa05f9136e7d04564647621`
+
 ## Install
 
 ```bash
